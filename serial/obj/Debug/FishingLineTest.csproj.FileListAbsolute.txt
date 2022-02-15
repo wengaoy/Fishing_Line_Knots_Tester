@@ -1,0 +1,69 @@
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\disconnected_48.png
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\Clear48.png
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\connected_48.png
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\db9.ico
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\exit.png
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\info.png
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\info-48.png
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\save32.png
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\terminalg.ico
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\serial.exe.config
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\serial.exe
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\serial.pdb
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\obj\Debug\FishingLineTest.csproj.AssemblyReference.cache
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\obj\Debug\serial.Form1.resources
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\obj\Debug\serial.Properties.Resources.resources
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\obj\Debug\FishingLineTest.csproj.GenerateResource.cache
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\obj\Debug\FishingLineTest.csproj.CoreCompileInputs.cache
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\obj\Debug\serial.exe
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\obj\Debug\serial.pdb
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\play48.png
+\\YAO_DiskStation\Hardware\2021\Aliexpress\Digital Load Cell Weight Sensor\cs\FishingLineTest\serial\bin\Debug\Resources\stop48.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\disconnected_48.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\Clear48.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\connected_48.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\db9.ico
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\exit.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\info.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\info-48.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\play48.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\save32.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\stop48.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\terminalg.ico
+C:\cs\FishingLineTest\serial\bin\Debug\serial.exe.config
+C:\cs\FishingLineTest\serial\bin\Debug\serial.exe
+C:\cs\FishingLineTest\serial\bin\Debug\serial.pdb
+C:\cs\FishingLineTest\serial\obj\Debug\FishingLineTest.csproj.AssemblyReference.cache
+C:\cs\FishingLineTest\serial\obj\Debug\serial.Form1.resources
+C:\cs\FishingLineTest\serial\obj\Debug\serial.Properties.Resources.resources
+C:\cs\FishingLineTest\serial\obj\Debug\FishingLineTest.csproj.GenerateResource.cache
+C:\cs\FishingLineTest\serial\obj\Debug\FishingLineTest.csproj.CoreCompileInputs.cache
+C:\cs\FishingLineTest\serial\obj\Debug\serial.exe
+C:\cs\FishingLineTest\serial\obj\Debug\serial.pdb
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\getData48.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\scales.png
+C:\cs\FishingLineTest\serial\bin\Debug\Resources\exit1.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\disconnected_48.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\exit1.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\getData48.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\scales.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\Clear48.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\connected_48.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\db9.ico
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\exit.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\info.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\info-48.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\play48.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\save32.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\stop48.png
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\Resources\terminalg.ico
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\serial.exe.config
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\serial.exe
+C:\cs\Fishing_Line_Knots_Tester\serial\bin\Debug\serial.pdb
+C:\cs\Fishing_Line_Knots_Tester\serial\obj\Debug\FishingLineTest.csproj.AssemblyReference.cache
+C:\cs\Fishing_Line_Knots_Tester\serial\obj\Debug\serial.Form1.resources
+C:\cs\Fishing_Line_Knots_Tester\serial\obj\Debug\serial.Properties.Resources.resources
+C:\cs\Fishing_Line_Knots_Tester\serial\obj\Debug\FishingLineTest.csproj.GenerateResource.cache
+C:\cs\Fishing_Line_Knots_Tester\serial\obj\Debug\FishingLineTest.csproj.CoreCompileInputs.cache
+C:\cs\Fishing_Line_Knots_Tester\serial\obj\Debug\serial.exe
+C:\cs\Fishing_Line_Knots_Tester\serial\obj\Debug\serial.pdb
