@@ -3,6 +3,8 @@
  
 <img src="doc/FishingLineTester_Schematic.png">
 
+<img src="doc/fishingLineTester.png">
+
 Parts used:
 1. 20Kg Digital Load Cell Weight Sensor
 
